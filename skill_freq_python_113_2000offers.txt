@@ -1,0 +1,875 @@
+python 493
+linux 248
+git 157
+sql 153
+postgresql 132
+javascript 114
+java 106
+django framework 97
+mysql 93
+c++ 80
+php 66
+bash 63
+ооп 53
+tcp/ip 49
+nginx 46
+тестирование 43
+docker 40
+html 39
+html5 39
+администрирование серверов linux 39
+unix 39
+c/c++ 37
+английский язык 37
+big data 37
+angularjs 36
+node.js 36
+c# 36
+redis 34
+mongodb 34
+css 33
+qa 33
+jenkins 31
+hadoop 28
+perl 26
+css3 25
+jquery 24
+ruby 24
+ms sql 23
+zabbix 21
+rabbitmq 20
+php5 20
+rest 19
+flask 19
+machine learning 19
+data mining 19
+spark 18
+http 16
+nosql 16
+qt 16
+xml 16
+ms excel 16
+oracle 15
+teamcity 15
+react 14
+математическая статистика 14
+test case 14
+tdd 13
+ansible 13
+svn 13
+cisco 13
+aws 12
+api 12
+apache http server 12
+opencv 12
+ajax 12
+data analysis 12
+elasticsearch 12
+администрирование сетевого оборудования 12
+управление проектами 11
+matlab 11
+регресионное тестирование 11
+ruby on rails 11
+atlassian jira 11
+kafka 10
+работа в команде 10
+etl 10
+bootstrap 10
+функциональное тестирование 10
+нагрузочное тестирование 10
+puppet 10
+lua 10
+erlang 10
+debian 10
+vmware 9
+tensorflow 9
+анализ данных 9
+разработка по 9
+devops 9
+selenium ide 9
+настройка dns 9
+blockchain 8
+go 8
+cassandra 8
+celery 8
+soap 8
+stl 8
+математическое моделирование 8
+машинное обучение 8
+java se 8
+scala 8
+oracle pl/sql 8
+ms sql server 8
+dhcp 8
+centos 8
+asterisk 8
+tornado 7
+субд 7
+unix shell scripts 7
+web application development 7
+symfony 7
+математический анализ 7
+cms wordpress 7
+статистический анализ 7
+robot framework 7
+hive 7
+black box testing 7
+ux 7
+spring framework 7
+vba 7
+администрирование серверов windows 7
+цод 7
+juniper 7
+криптовалюта 6
+блокчейн 6
+scrum 6
+веб-программирование 6
+reactjs 6
+математическое программирование 6
+boost 6
+.net framework 6
+asp.net 6
+agile project management 6
+numpy 6
+unit testing 6
+delphi 6
+нейронные сети 6
+sass 6
+shell scripting 6
+less 6
+настройка серверов apache 6
+тестирование пользовательского интерфейса 6
+google analytics 6
+sas 6
+redux 5
+nlp 5
+selenium 5
+web аналитика 5
+computer vision 5
+golang 5
+deep learning 5
+unity 5
+openvpn 5
+android 5
+nagios 5
+риск-менеджмент 5
+react.js 5
+appium 5
+информационная безопасность 5
+back-end 5
+яндекс.метрика 5
+ui 5
+автоматизация 4
+ci 4
+dsp 4
+backbone 4
+mssql 4
+pandas 4
+virtualization 4
+caffe 4
+cuda 4
+freebsd 4
+chef 4
+vpn 4
+data science 4
+gitlab 4
+js 4
+testing framework 4
+анализ рисков 4
+yii 4
+hbase 4
+управление персоналом 4
+системная интеграция 4
+powershell 4
+организаторские навыки 4
+ведение переговоров 4
+администрирование серверов 4
+php7 4
+vlan 4
+swift 4
+bdd 4
+cucumber 4
+ranorex 4
+calabash 4
+serenity 4
+testng 4
+behave 4
+uiautomator 4
+shoulda 4
+zephyr 4
+бизнес-анализ 4
+backend 3
+hls 3
+selenium webdriver 3
+django rest framework 3
+shell 3
+asyncio 3
+opengl 3
+postfix 3
+clickhouse 3
+memcached 3
+модульное тестирование 3
+ci/cd 3
+design patterns 3
+информационные технологии 3
+game programming 3
+ccna 3
+elk 3
+voip 3
+redmine 3
+firebirdsql 3
+opencl 3
+open source 3
+joomla cms 3
+java ee 3
+assembler 3
+техническая поддержка 3
+helpdesk 3
+user acceptance testing 3
+apache maven 3
+aerospike 3
+ipmi 3
+bgp 3
+nixos 3
+apache tomcat 3
+многопоточные приложения 3
+transact-sql 3
+веб-аналитика 3
+hyper-v 3
+start-up  project 3
+amazon web services 3
+data mining: spss 3
+spss 3
+пользователь пк 3
+project management 3
+json api 3
+gui на qt4 3
+ms project 3
+локальные сети 3
+подбор персонала 3
+грамотная речь 3
+1с-битрикс 3
+маркетинговый анализ 3
+технические системы и средства безопасности 3
+технические средства информационной защиты 3
+typescript 3
+saas 3
+tfs 3
+spring 2
+wifi networks 2
+ddd 2
+text mining 2
+pagerduty 2
+infrastructure 2
+automation 2
+cd 2
+gunicorn 2
+микросервисы 2
+django 2
+teamplayer 2
+owasp 2
+знание основных структур данных 2
+умение работать самостоятельно и в команде 2
+kivy 2
+windows 2
+solaris 2
+system integration 2
+mercurial 2
+react/redux 2
+redshift 2
+mathematical statistics 2
+statistica 2
+mac os 2
+continuous integration 2
+xunit 2
+eclipse 2
+программирование 2
+преподаватель 2
+программирование 3d-графики 2
+adobe photoshop 2
+matplotlib 2
+vagrant 2
+ios 2
+системы мониторинга сетей 2
+angular 2
+аналитические исследования 2
+эксплуатация 2
+hdfs 2
+es6 2
+работа с большим объемом информации 2
+управление рисками 2
+spa 2
+gulp 2
+компьютерное зрение 2
+npm 2
+pig 2
+arm 2
+mips 2
+jmeter 2
+консультирование клиентов по телефону 2
+scratch 2
+minecraft 2
+ручное тестирование 2
+apache 2
+haproxy 2
+rpm 2
+dns 2
+разработка технических заданий 2
+product management 2
+jira 2
+алгоритмы 2
+theano 2
+oracle weblogic server 2
+development 2
+c++11 2
+реляционные бд 2
+hightload 2
+ms visual studio 2
+mvc 2
+ospf 2
+iptables 2
+kibana 2
+a/b тесты 2
+ibm websphere 2
+soa 2
+middleware 2
+bug tracking systems 2
+itil 2
+целеустремленность 2
+tornado web server 2
+haskell 2
+руководство коллективом 2
+amazon 2
+agile 2
+bigdata 2
+bamboo 2
+стрессоустойчивость 2
+gnu/linux 2
+debian gnu/linux 2
+atlassian confluence 2
+advanced analytics 2
+natural language processing 2
+рекрутмент 2
+ms outlook 2
+деловая переписка 2
+телефонные переговоры 2
+деловая коммуникация 2
+project documentation 2
+seo 2
+администрирование сайтов 2
+разработка cms 2
+анализ бизнес показателей 2
+язык программирования r 2
+средства криптографической защиты информации 2
+анализ кода 2
+сертификационные исследования 2
+сертификация фсб 2
+windows os 2
+недокументированные возможности 2
+json 2
+методы прогнозирования 2
+data scientist 2
+lan 2
+firebird 2
+usability 2
+internet marketing 2
+google adwords 2
+appsflyer 2
+pentaho di 2
+ssis 2
+oracle db 2
+tableau 2
+sap business objects 2
+kernel 2
+d-bus 2
+embedded development 2
+yocto 2
+arm soc 2
+iis 2
+synopsys 2
+проведение презентаций 2
+моделирование бизнес процессов 2
+ms visio 2
+uml 2
+business analysis 2
+system analysis 2
+spss modeler 2
+sas em 2
+arm neon 2
+intel sse 2
+hibernate 1
+jersey 1
+py.test 1
+teamleading 1
+python 3 1
+python 2.7 1
+robot operating system 1
+знание python 2.7/3 1
+опыт работы с django, mongodb 1
+будет плюсом опыт работы с redis, rabbitmq, celery, docker, js(angular) 1
+работа с биржами 1
+actionscript 1
+асинхронное программирование 1
+virtualization solutions 1
+developing test automation infrastructure 1
+computer networking (tcp/ip) 1
+storage networking protocols 1
+django, sql, postgres 1
+экстремальное программирование 1
+e-commerce 1
+django oscar 1
+unix api 1
+web-технологии 1
+ext js 1
+math 1
+algorithms 1
+sensor fusion 1
+машинное зрение 1
+дополненная реальность 1
+3d 1
+slam 1
+поисковая оптимизация сайтов 1
+restful api 1
+go/golang 1
+v-ray 1
+мультипликация 1
+autodesk maya 1
+ms exchange 1
+r language 1
+databases 1
+web services 1
+sed 1
+grep 1
+sphinx 1
+автотест 1
+cython 1
+архитектура 1
+pypy 1
+python, django, html, css, bootstrap, git, postgresql 1
+gevent 1
+разработка 1
+web 1
+it 1
+digital 1
+информатика 1
+линейное программирование 1
+automation testing 1
+преподавание 1
+биотехнология 1
+биоинформатика 1
+иммунология 1
+секвенирование 1
+user interface testing 1
+functional testing 1
+usability testing 1
+integration testing 1
+regression testing 1
+windows phone 1
+владение php, python, c++, c# или java 1
+ml 1
+moodle 1
+kubernetes 1
+prometheus 1
+zookeeper 1
+consul 1
+terraform 1
+graphite 1
+jboss 1
+uwsgi 1
+openvz 1
+ionic 1
+cordova 1
+sip 1
+rtp 1
+wireshark 1
+tcpdump 1
+trellisdesk 1
+прогнозирование 1
+финансовый анализ 1
+финансовое моделирование 1
+business english 1
+azure cloud 1
+liquibase 1
+devexpress 1
+wcf 1
+automapper 1
+ninject 1
+syncfusion 1
+mathnet 1
+ilnumerics 1
+nunit.framework / junit / cppunit 1
+mockito 1
+jdbc 1
+erwin 1
+разработка web-приложений 1
+pl/python 1
+parse backend 1
+linux на c++, сборка cmake. математическая подготовка вуза 1
+mathematical analysis 1
+statistics 1
+business management 1
+analytics architecture 1
+woocommerce 1
+teradata 1
+vue.js 1
+настройка и сопровождение бд на базе mysql, postgresql; 1
+администрирование систем на базе ос linux 1
+настройка и сопровождение серверов приложений компании, настройка тестовых сред 1
+владение скриптовыми языками программирования(bash/python/php) 1
+базовые знания sql 1
+опыт мониторинга параметров web служб 1
+sdn 1
+continious integration 1
+continious delivery 1
+аналитический склад ума 1
+scala hr 1
+рефакторинг кода 1
+амбициозность 1
+db systems 1
+3d моделирование 1
+structure from motion 1
+multiple view geometry 1
+bundle adjustment 1
+disparity map calculation 1
+hive-ql 1
+iot 1
+internetofthings 1
+vpaid 1
+vast 1
+mraid 1
+digital marketing 1
+hiveql 1
+опыт нахождения уязвимостей в по третьей стороны 1
+instructions set 1
+fuzzing 1
+elastic search 1
+ubuntu server 1
+loadrunner 1
+системная разработка 1
+networking 1
+организация учебного процесса 1
+управление учебным центром 1
+обучение персонала 1
+организация учебного центра 1
+ethernet 1
+redhat 1
+react native 1
+rhel 1
+red hat 1
+ssl 1
+keepalived 1
+управление интернет-проектами 1
+системное мышление 1
+srp 1
+lvm 1
+pxe 1
+squid 1
+osisoft 1
+rspec 1
+docker swarm 1
+строковые алгоритмы 1
+алгоритмы оптимизации 1
+windows server 1
+proxmox 1
+знание языков программирования python, c\c++; 1
+знание протоколов передачи данных (modbus-rtu,gprs, tcp/ip, sftp, pop3, imap); 1
+знание scada-систем; 1
+- опыт портирования ядра ос linux на конкретную аппаратную платформу 1
+опыт разработки драйверов периферийных устройств под ос linux 1
+опыт программирования задач в реальном времени и при ограниченных ресурсах 1
+владение английским языком - чтение технической документации 1
+умение работать в команде 1
+знание требований к программному обеспечению средств измерений 1
+spago bi 1
+zend framework 1
+android sdk 1
+android ndk 1
+математическая подготовка 1
+cfengine 1
+nunit 1
+ccnp 1
+ipsec 1
+статистические отчеты 1
+продуктовая аналитика 1
+pyspark 1
+apache spark 1
+опыт использования angularjs 1
+знание javascript 1
+будет плюсом опыт работы с typescript, cordova, es15, bower, grunt, webpack, python 1
+pytest 1
+canvas 1
+svg 1
+webgl 1
+coffeescript 1
+es6/7 1
+azure 1
+d3 1
+прикладная математика 1
+статистика 1
+laravel 1
+lumen 1
+slim 1
+apache kafka 1
+test plan 1
+openstack 1
+netapp 1
+vnx 1
+3par 1
+groovy 1
+макросы 1
+риски 1
+tibco 1
+esb 1
+bpm 1
+jms 1
+xsd 1
+wsdl 1
+эрудиция 1
+самоорганизованность 1
+ответственность 1
+sql; oracle; unix; selenium; jmeter 1
+firewall 1
+скуд 1
+research 1
+research and development 1
+сontinuous integration 1
+scribe 1
+fluentd 1
+msf 1
+https 1
+ibm spss 1
+с++ 1
+с# 1
+jetbrains phpstorm 1
+amqp 1
+doctrine 1
+orm 1
+business partner 1
+open cv 1
+postrgresql 1
+json-rpc 1
+amazon ec2 1
+c/с++ 1
+jenkins ci 1
+gem 1
+deb 1
+высокая скорость печати 1
+mail server 1
+gui yf qt4 1
+linux/c/c++ 1
+ms integration service 1
+ms reporting service 1
+codeception 1
+guava 1
+apache commons 1
+protocol buffers 1
+thrift 1
+apache solr 1
+apache lucene 1
+scripting 1
+ms office 1
+track 1
+математические методы 1
+ms powerpoint 1
+работа с базами данных 1
+подготовка презентаций 1
+pyqt 1
+qml 1
+flume 1
+keras 1
+edward 1
+cocos2d 1
+gamedev 1
+game design 1
+active directory 1
+embedded linux 1
+linux kernel 1
+extlib 1
+уверенное знание c++, stl; 1
+принципы и методы ооп; 1
+линейная алгебра и аналитическая геометрия; 1
+инструменты: microsoft visual studio, svn или другая 1
+cvs, redmine или другая bugtracking-система. 1
+ipc 1
+настройка сетевых подключений 1
+настройка почтовых серверов 1
+настройка серверов 1
+антивирусная защита сети 1
+репликация 1
+настройка по 1
+highload 1
+базы данных 1
+системы видеонаблюдения 1
+quality control 1
+signal processing 1
+udp 1
+mpeg-ts 1
+itsm 1
+promo compaing 1
+моделирование 1
+оценка рисков 1
+akka 1
+kotlin 1
+iron python 1
+olap-структуры 1
+phalcon 1
+серверные архитектуры 1
+сетевое оборудование 1
+принципы построения сетей 1
+вычислительные комплексы 1
+scikit-learn 1
+visual studio c# 1
+wpf 1
+developer express 1
+compatibility testing 1
+- ответственность; - коммуникабельность; - инициативность; - исполнительность; - высокая самоорганиз 1
+continuous delivery 1
+cloud computing 1
+it infrastructure 1
+kvm 1
+проведение внутренних расследований 1
+oracle database 1
+backend development 1
+frontend development 1
+hana 1
+server-side js 1
+sap basis 1
+noc 1
+erp-системы на базе 1с 1
+angular2 1
+статистические пакеты (eviews, spss, stata, statistica, sas, r) 1
+обработка сигналов 1
+сверточные нейронные сети (cnn) 1
+angular 2 1
+polymer 1
+expressjs 1
+pbr 1
+dsl networks 1
+awk 1
+customer support 1
+salt 1
+cloudfront 1
+ec2 1
+s3 1
+akamai 1
+newrelic 1
+logstash 1
+преподавание информационных технологий, программирование,языки программирования,  it, робототехника 1
+predictive analytics 1
+управление продуктом 1
+рекомендательные системы 1
+коллаборативная фильтрация 1
+матричная факторизация 1
+кластеризация 1
+бустинг 1
+wan 1
+enhanced interior gateway routing protocol 1
+nat 1
+теория управления 1
+теория оптимизации 1
+google tag manager 1
+subversion 1
+ldap 1
+debugger 1
+ide 1
+insurance 1
+qt-sdk 1
+java, python, c# 1
+hypersonic sql 1
+cmake 1
+msbuild 1
+nant 1
+проведение тестирований 1
+live555 1
+ffmpeg 1
+кроссбраузерная верстка 1
+адаптивная верстка 1
+мотивация персонала 1
+проектирование лвс 1
+обучение и развитие 1
+управленческие навыки 1
+cadence 1
+edi 1
+encounter 1
+icc 1
+sta 1
+primetime 1
+voltus 1
+rtl 1
+логический синтез 1
+verilog 1
+dft 1
+low power 1
+tcl 1
+oracle 11g 1
+deploy 1
+дбо 1
+автоматизация тестирования 1
+абс 1
+2-я линия тех.поддержки 1
+бсс 1
+faktura 1
+фактура 1
+ekassir 1
+gnu linux 1
+iso 1
+osi 1
+mysql gui tools 1
+пакет r 1
+исследование абонентской базы 1
+gcc 1
+vcs 1
+analysis 1
+analytical skills 1
+sw development 1
+sw testing 1
+sw design 1
+telecom 1
+gentoo 1
+karaf 1
+information security 1
+informix 1
+mapreduce 1
+visual basic 1
+avr 1
+openc 1
+u-boot 1
+buildroot 1
+busybox 1
+toolchain 1
+embedded 1
+stm32 1
+pthreads 1
+jaxb 1
+xml/xslt 1
+spring cloud 1
+spring integration 1
+business intelligence systems 1
+tibco spotfire 1
+исследовательское тестирование 1
+olap (online analytical processing) 1
+ssas 1
+bi 1
+dwh 1
+ethereum 1
+цифровая обработка сигналов 1
+diamond vision 1
+adas 1
+eyeon fusion 1
+rust 1
+c \ c++ 1
+powerpc 1
+storage 1
+ftp 1
+скрипты bash, python, groovy 1
+ant 1
+mobile app 1
+способность работать в условиях многозадачности 1
+multithread programming 1
+vertica 1
+elastic 1
+greenplum 1
+nympy 1
+rshiny 1
+h2o 1
+data science engineer 1
